@@ -1,0 +1,7 @@
+name: BookShelfDemo
+version: ${project.version}
+main: com.hiddentech.bookshelfdemo.BookShelfDemo
+api-version: 1.16
+depend: [Grid]
+authors: [hidden1nin]
+description: Demo Of Bookshelf
